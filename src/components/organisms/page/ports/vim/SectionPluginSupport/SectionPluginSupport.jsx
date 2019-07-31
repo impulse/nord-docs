@@ -106,7 +106,7 @@ const SectionPluginSupport = ({ assets }) => (
         </Visualization>
         <Text>
           <Subline>
-            Beautiful syntax highlighting with support for gr
+            Beautiful syntax highlighting with support for{" "}
             <Link href="https://github.com/fatih/vim-go">vim-go</Link> and{" "}
             <Link href="https://github.com/vim-airline/vim-airline">vim-airline</Link>.
           </Subline>
